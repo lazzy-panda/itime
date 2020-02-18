@@ -1,0 +1,7 @@
+{
+  "name": "itime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
